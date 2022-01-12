@@ -1,11 +1,11 @@
-<h1 align="center">Hi , this is Habib</h1>
+<h1 align="center">Hi 👋 this is Habib</h1>
 <h3 align="center">Front-end developer, Wordpress and Shopify expert.</h3>
 
 - 💬 Ask me about **JavaScript, React, HTML, CSS, Wordpress and Shopify**
 
 - 📫 Reach me at **rahman.habibjr59@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z5wplhOXY9tWL28Ou4s6isnJ_KJ2BcOr/view?usp=sharing](https://drive.google.com/file/d/1z5wplhOXY9tWL28Ou4s6isnJ_KJ2BcOr/view?usp=sharing)
+- 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1z5wplhOXY9tWL28Ou4s6isnJ_KJ2BcOr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
