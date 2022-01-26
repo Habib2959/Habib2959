@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **rahman.habibjr59@gmail.com**
 
-- 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1z5wplhOXY9tWL28Ou4s6isnJ_KJ2BcOr/view?usp=sharing)
+- 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1CEctmUQY-388kmaCynWm104qvaxqi-hZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
