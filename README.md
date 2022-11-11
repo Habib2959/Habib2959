@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 this is Habib</h1>
 <h3 align="center">Front-end developer, Wordpress and Shopify expert.</h3>
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Wordpress and Shopify**
+- 💬 Ask me about **JavaScript, React, Redux, Svelte, HTML, CSS, Wordpress and Shopify**
 
 - 📫 Reach me at **rahman.habibjr59@gmail.com**
 
